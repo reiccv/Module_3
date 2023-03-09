@@ -35,4 +35,21 @@ Repeat the steps for coinbase.csv as it is the same code (bitstamp is just the e
 
 
 # Analyze the data
+Repeat the steps for coinbase.csv as it is the same code (bitstamp is just the example for this README).
+
+![Data analyze 1]
+
+![Data analyze 2]
+
+![Data analyze 3]
+
+![Data analyze 4]
+
+![Data analyze 5]
+
+![Data analyze 6]
+
+![Data analyze 7]
+
+![Data analyze 8]
 
