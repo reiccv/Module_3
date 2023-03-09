@@ -25,7 +25,14 @@ Repeat the steps for coinbase.csv as it is the same code (bitstamp is just the e
 # Prepare the data
 Repeat the steps for coinbase.csv as it is the same code (bitstamp is just the example for this README).
 
-![Data prepare 1]()
+![Data prepare 1](https://github.com/reiccv/Module_3/blob/main/images_mod3/data_prepare_1.PNG)
+
+![Data prepare 2](https://github.com/reiccv/Module_3/blob/main/images_mod3/data_prepare_2.PNG)
+
+![Data prepare 3](https://github.com/reiccv/Module_3/blob/main/images_mod3/data_prepare_3.PNG)
+
+![Data prepare 4](https://github.com/reiccv/Module_3/blob/main/images_mod3/data_prepare_4.PNG)
 
 
 # Analyze the data
+
