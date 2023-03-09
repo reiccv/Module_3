@@ -12,12 +12,14 @@ This aspect of the Challenge will consist of 3 phases.
 
 # Libraries and dependencies 
 The libraries needed for this assignment is the pandas library which is a package already within python.
-![Libraries and dependencies]
+![Libraries and dependencies](https://github.com/reiccv/Module_3/blob/main/images_mod3/Libraries_mod3.PNG)
 
 
 # Collect the data
 Repeat the steps for coinbase.csv as it is the same code (bitstamp is just the example for this README)
+![Data collect 1](https://github.com/reiccv/Module_3/blob/main/images_mod3/data_collect_1.PNG)
 
+![Data collect 2](https://github.com/reiccv/Module_3/blob/main/images_mod3/data_collect_2.PNG)
 
 # Prepare the data
 
